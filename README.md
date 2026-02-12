@@ -18,22 +18,24 @@ Meu objetivo é evoluir para atuar profissionalmente no desenvolvimento de softw
 ## Habilidades Técnicas
 
 ### Linguagens e Tecnologias
+* Inglês Intermediário (Fala)
+* Inglês Avançado (Escrita)
 
-* Python
+* Python (aprendendo)
 * HTML (avançado)
 * CSS (intermediário)
-* JavaScript (básico)
-* PHP (em desenvolvimento)
-* Java (em desenvolvimento)
+* PHP (básico)
 
 ### Desenvolvimento Web
 
-Experiência na criação de sites, principalmente páginas institucionais e one-page. Já desenvolvi projetos reais utilizando WordPress, especificamente Elementor, Elementor Pro, e WPBakery, incluindo personalização de estrutura e estilo.
+Experiência na criação de sites, principalmente páginas institucionais e one-page. Já desenvolvi projetos reais utilizando WordPress, especificamente Elementor, Elementor Pro, e WPBakery, incluindo personalização de estrutura, estilo, layout responsivo e condicional.
 
 ### Programação e Sistemas
 
 Experiência com desenvolvimento de projetos que envolvem:
 
+* Layout adaptativo
+* Responsividade Web
 * Uso de APIs
 * Manipulação de arquivos
 * Lógica de sistemas de armazenamento
@@ -41,6 +43,7 @@ Experiência com desenvolvimento de projetos que envolvem:
 
 Projeto de destaque:
 **Telegram Stealth Vault** — sistema experimental que utiliza Python e a API do Telegram para adaptar o armazenamento de arquivos e mensagens como uma nuvem alternativa, com criptografia ponta-a-ponta e foco em segurança de dados.
+**Locust Chat** — sistema de chat privado p2p construido em python que utiliza a rede Tor e endereços .onion para realizar uma conexão privada e criptografada.
 
 ---
 
@@ -48,7 +51,7 @@ Projeto de destaque:
 
 * Git e GitHub
 * VS Code
-* Terminal Linux (comandos básicos)
+* Terminal Linux (ubuntu based)
 
 ---
 
