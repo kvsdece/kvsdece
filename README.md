@@ -1,74 +1,107 @@
-# Kauã Victor
+# Kauã Victor Silva Araújo
 
-Estudante de Tecnologia da Informação com foco em desenvolvimento de sistemas, segurança e aplicações web. Tenho perfil autodidata, aprendo principalmente através de prática e estudo independente, buscando sempre entender como as tecnologias funcionam internamente, não apenas utilizá-las.
+Estudante do Ensino Médio Técnico em Vendas com forte interesse em tecnologia, desenvolvimento de software, automação e segurança da informação.
 
-Meu objetivo é evoluir para atuar profissionalmente no desenvolvimento de software, com base sólida em múltiplas linguagens, adaptação às mudanças do mercado e integração progressiva no campo da Inteligência Artificial.
+Meu aprendizado acontece principalmente por meio de projetos práticos, estudo independente e experimentação. Gosto de compreender como sistemas funcionam internamente, desde a lógica de negócio até sua implementação técnica.
+
+Atualmente desenvolvo projetos envolvendo desenvolvimento web, automação, comunicação segura, armazenamento de dados e integração entre tecnologia e processos organizacionais.
 
 ---
 
 ## Áreas de Interesse
 
-* Segurança aplicada a software
-* Desenvolvimento Web (Front-end e Back-end)
-* Inteligência Artificial (base e aplicações futuras)
-* Sistemas e arquitetura de aplicações
+* Desenvolvimento de Software
+* Automação de Processos
+* Segurança da Informação
+* Arquitetura de Sistemas
+* Desenvolvimento Web
+* Ferramentas Digitais para Negócios
 
 ---
 
-## Habilidades Técnicas
+## Tecnologias
 
-### Linguagens e Tecnologias
-* Inglês Intermediário (Fala)
-* Inglês Avançado (Escrita)
+### Linguagens
 
-* Python (aprendendo)
-* HTML (avançado)
-* CSS (intermediário)
+* Python
+* Rust (em aprendizado)
+* HTML
+* CSS
 * PHP (básico)
 
 ### Desenvolvimento Web
 
-Experiência na criação de sites, principalmente páginas institucionais e one-page. Já desenvolvi projetos reais utilizando WordPress, especificamente Elementor, Elementor Pro, e WPBakery, incluindo personalização de estrutura, estilo, layout responsivo e condicional.
+* WordPress
+* Elementor
+* Elementor Pro
+* WPBakery
 
-### Programação e Sistemas
+### Ferramentas
 
-Experiência com desenvolvimento de projetos que envolvem:
-
-* Layout adaptativo
-* Responsividade Web
-* Uso de APIs
-* Manipulação de arquivos
-* Lógica de sistemas de armazenamento
-* Estruturação de aplicações com foco em funcionamento real
-
-Projeto de destaque:
-**Telegram Stealth Vault** — sistema experimental que utiliza Python e a API do Telegram para adaptar o armazenamento de arquivos e mensagens como uma nuvem alternativa, com criptografia ponta-a-ponta e foco em segurança de dados.
-**Locust Chat** — sistema de chat privado p2p construido em python que utiliza a rede Tor e endereços .onion para realizar uma conexão privada e criptografada.
-
----
-
-## Ferramentas e Ambiente
-
-* Git e GitHub
+* Git
+* GitHub
 * VS Code
-* Terminal Linux (ubuntu based)
+* Linux
+* Microsoft Office
+* Google Workspace
 
 ---
 
-## Perfil Profissional
+## Experiência Prática
 
-* Aprendizado majoritariamente autodidata
-* Facilidade para entender o funcionamento interno das tecnologias
-* Perfil lógico e criativo ao mesmo tempo
-* Persistente na resolução de problemas
-* Interesse em desafios que gerem crescimento real
-* Capacidade de explicar conceitos técnicos usando comparações e analogias
+### Desenvolvimento Web
+
+Participação em projetos de presença digital para empresas locais, incluindo desenvolvimento de sites institucionais, personalização de layouts, organização de conteúdo e adaptação para dispositivos móveis.
+
+### Suporte e Multimídia
+
+Experiência em suporte técnico básico, operação de apresentações, recursos audiovisuais e utilização de ferramentas digitais em ambientes colaborativos.
 
 ---
 
-## Objetivos Profissionais
+## Projetos em Destaque
 
-* Consolidar habilidades em Python, Java, PHP e outras linguagens relevantes
-* Evoluir para desenvolvimento de sistemas mais complexos e arquiteturas reais
-* Atuar em empresa de médio ou grande porte na área de tecnologia
-* Trabalhar com programação como atividade principal e projetos freelancer paralelos
+### Telegram Stealth Vault
+
+Sistema experimental de armazenamento criptografado desenvolvido em Python, utilizando integração com a API do Telegram para gerenciamento seguro de arquivos e dados.
+
+**Conceitos explorados:**
+
+* Criptografia
+* Manipulação de arquivos
+* APIs
+* Estruturação de sistemas
+* Segurança de dados
+
+### Locust Chat
+
+Projeto em construção de comunicação segura P2P desenvolvido inicialmente em Python e atualmente em processo de reestruturação utilizando Rust.
+
+**Conceitos explorados:**
+
+* Comunicação distribuída
+* Criptografia ponta a ponta
+* Rede Tor
+* Segurança da informação
+* Segurança de memória
+* Arquitetura de aplicações
+
+---
+
+## Competências
+
+* Documentação e organização de informações
+* Resolução de problemas
+* Aprendizado autodidata
+* Implantação de ferramentas digitais
+* Suporte operacional
+* Integração entre tecnologia e processos de negócio
+* Automação
+
+---
+
+## Objetivos
+
+Continuar desenvolvendo competências em programação, automação e arquitetura de sistemas, construindo soluções que unam tecnologia, eficiência operacional e resolução de problemas reais.
+
+Busco oportunidades que permitam aplicar conhecimento técnico, desenvolver experiência profissional e contribuir para projetos com impacto prático.
