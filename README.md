@@ -33,6 +33,7 @@ Atualmente desenvolvo projetos envolvendo desenvolvimento web (com React ou Word
 ### Linguagens
 
 - Python
+- Rust (Aprendendo)
 - HTML
 - CSS
 - PHP (básico)
